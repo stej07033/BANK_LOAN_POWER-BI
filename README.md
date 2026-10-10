@@ -4,6 +4,8 @@
 ![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/27393803-42d6-4ae2-8d9d-fa2a81dd9468" />
+
 ## 📌 Project Overview
 
 The **Bank Loan Analysis Dashboard** is a data analytics and business intelligence project developed using Microsoft Power BI. This project focuses on analyzing bank loan data to understand loan application trends, funded amounts, repayment performance, borrower characteristics, and overall lending activities.
@@ -249,9 +251,13 @@ Add screenshots of your actual Power BI dashboard to make the GitHub repository 
 
 For example, save your screenshots in an `images` folder and insert them using Markdown:
 
-```markdown
-![Bank Loan Dashboard](images/bank-loan-dashboard.png)
-```
+``
+** SUMMARY
+<img width="1200" height="677" alt="Screenshot 2026-10-10 143956" src="https://github.com/user-attachments/assets/844dc094-14f1-4224-9654-3d73e86ea2f6" />
+** OVERVIEW
+<img width="1202" height="680" alt="Screenshot 2026-10-10 144054" src="https://github.com/user-attachments/assets/94dc636b-ba07-45e4-a62a-4050a05488ef" />
+** DETAILS
+<img width="1202" height="678" alt="Screenshot 2026-10-10 144131" src="https://github.com/user-attachments/assets/db19ad04-cf6a-4fde-bb89-f7f4556f6c83" />
 
 ## 📌 Project Limitations
 
@@ -291,9 +297,9 @@ I am continuously developing my skills in data analytics, SQL, Python, Microsoft
 
 ## 🤝 Connect With Me
 
-* **GitHub:** [Add your GitHub profile URL]
-* **LinkedIn:** [Add your LinkedIn profile URL]
-* **Email:** [Add your professional email address]
+* **GitHub:** https://github.com/stej07033
+* **LinkedIn:** https://www.linkedin.com/posts/madanapalli-sai-19b835389_best-free-certificate-courses-online-2025-activity-7490432956604268544-Asln?utm_source=share&utm_medium=member_android&rcm=ACoAAF-yhccBFOBRwPFDl9PAbb7jDVPGHyD_Tsc
+* **Email:** stej07033@gmail.com
 
 ## ⭐ Support
 
